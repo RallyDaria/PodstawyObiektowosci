@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9afb23d6-ab64-48fb-805f-a542f978b109" name="Changes" comment="Zmiana imienia Kiziola">
+    <list default="true" id="9afb23d6-ab64-48fb-805f-a542f978b109" name="Changes" comment="Zmiana mięciusiowatości boolen">
+      <change afterPath="$PROJECT_DIR$/src/OMG.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rabbit.java" afterDir="false" />
@@ -97,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666807825052</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Zmiana mięciusiowatości boolen">
+      <created>1666809364552</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666809364552</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +124,7 @@
     <MESSAGE value="Rabbit11" />
     <MESSAGE value="Zmiana imienia Heńka" />
     <MESSAGE value="Zmiana imienia Kiziola" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zmiana imienia Kiziola" />
+    <MESSAGE value="Zmiana mięciusiowatości boolen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zmiana mięciusiowatości boolen" />
   </component>
 </project>
