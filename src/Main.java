@@ -5,5 +5,7 @@ public class Main {
         rabbit1.changeName("Kiziol");
         rabbit1.viewName();
         System.out.println(rabbit1.viewName());
+        rabbit1.changeSoftnes(false);
+        System.out.println(rabbit1.viewSoftness());
     }
 }

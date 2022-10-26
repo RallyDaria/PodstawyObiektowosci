@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9afb23d6-ab64-48fb-805f-a542f978b109" name="Changes" comment="Zmiana imienia Heńka">
+    <list default="true" id="9afb23d6-ab64-48fb-805f-a542f978b109" name="Changes" comment="Zmiana imienia Kiziola">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rabbit.java" afterDir="false" />
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666807126201</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Zmiana imienia Kiziola">
+      <created>1666807825052</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666807825052</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +115,7 @@
     <MESSAGE value="Rabbit" />
     <MESSAGE value="Rabbit11" />
     <MESSAGE value="Zmiana imienia Heńka" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zmiana imienia Heńka" />
+    <MESSAGE value="Zmiana imienia Kiziola" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zmiana imienia Kiziola" />
   </component>
 </project>
